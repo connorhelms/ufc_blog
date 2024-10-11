@@ -1,0 +1,14 @@
+{
+    "user1": {
+        "username": "user1",
+        "password": "$2y$10$yM.q7AdkH\/uEkn.TqlUpseO\/MPm6X1hI7ehGx4CqaSeHG.I7kwvSu"
+    },
+    "Helms_Con": {
+        "username": "Helms_Con",
+        "password": "$2y$10$bLRU3oy5hLQfou8u91SSmOVTP4sB2X6BPfqOIt6AHmp7tUWO.vcUe"
+    },
+    "helmsc1": {
+        "username": "helmsc1",
+        "password": "$2y$10$P8lbUy80saP1xDLb8HFrmeijT3xOvU\/5WbuKp0CsasU.jf29kE3wu"
+    }
+}
