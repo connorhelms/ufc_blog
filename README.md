@@ -13,3 +13,6 @@ Welcome to the **UFC Fighters Blog**, a simple PHP-based blog where users can vi
 - **JSON**: Used for storing blog posts, comments, and user data.
 - **HTML/CSS**: For the frontend and styling.
 - **Git & GitHub**: Version control and repository hosting.
+
+## YouTube Video Link:
+- https://youtu.be/m1C7SAO-G8g
